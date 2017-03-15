@@ -3,7 +3,7 @@ This is my submission for Coursera Getting and Cleaning Data
 
 # Files
   * CodeBook.md : codebook listing all transformations and output variables
-  * result.csv : tidy dataset containing means of measures by subject / activity
+  * result.csv and result.txt : tidy dataset containing means of measures by subject / activity
   * run_analysis.R : R script that does the job
 
 # Description of the script "run_analysis.R"
