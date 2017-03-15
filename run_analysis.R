@@ -85,4 +85,4 @@ library(dplyr)
   
   # 5.4 Create a file with final dataset
   write.table(result, "result.csv", sep =";")
-  
+  write.table(result, "result.txt", row.name=FALSE)
